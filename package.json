@@ -1,0 +1,30 @@
+{
+  "name": "file-keyword-density",
+  "version": "0.0.1",
+  "description": "Keyword density analyzer for contents in a text or html file",
+  "main": "density.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timhysniu/file-keyword-density.git"
+  },
+  "keywords": [
+    "keyword",
+    "density",
+    "analyzer",
+    "file",
+    "text",
+    "html"
+  ],
+  "author": "Tim Hysniu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timhysniu/file-keyword-density/issues"
+  },
+  "homepage": "https://github.com/timhysniu/file-keyword-density#readme",
+  "dependencies": {
+    "striptags": "^3.1.1"
+  }
+}

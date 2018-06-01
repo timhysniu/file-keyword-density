@@ -1,0 +1,606 @@
+The Psychological Roots of Anti-Vaccination Attitudes
+A 24-Nation Investigation
+
+Matthew J. Hornsey, Emily A. Harris, and Kelly S. Fielding
+
+University of Queensland
+
+Objective: Strengthening of antivaccination movements in recent decades has coincided with unprecedented
+increases in the incidence of some communicable diseases. Many intervention programs work
+from a deficit model of science communication, presuming that vaccination skeptics lack the ability to
+access or understand evidence. However, interventions focusing on evidence and the debunking of
+vaccine-related myths have proven to be either nonproductive or counterproductive. Working from a
+motivated reasoning perspective, we examine the psychological factors that might motivate people to
+reject scientific consensus around vaccination. To assist with international generalizability, we examine
+this question in 24 countries. Methods: We sampled 5,323 participants in 24 countries, and measured
+their antivaccination attitudes. We also measured their belief in conspiracy theories, reactance (the
+tendency for people to have a low tolerance for impingements on their freedoms), disgust sensitivity
+toward blood and needles, and individualistic/hierarchical worldviews (i.e., people’s beliefs about how
+much control society should have over individuals, and whether hierarchies are desirable). Results: In
+order of magnitude, antivaccination attitudes were highest among those who (a) were high in conspiratorial
+thinking, (b) were high in reactance, (c) reported high levels of disgust toward blood and needles,
+and (d) had strong individualistic/hierarchical worldviews. In contrast, demographic variables (including
+education) accounted for nonsignificant or trivial levels of variance. Conclusions: These data help
+identify the “attitude roots” that may motivate and sustain vaccine skepticism. In so doing, they help shed
+light on why repetition of evidence can be nonproductive, and suggest communication solutions to that
+problem.
+
+Keywords: vaccination, conspiracy beliefs, health communication, attitude roots
+Supplemental materials: http://dx.doi.org/10.1037/hea0000586.supp
+
+For the first time in a century, incidences of some communicable
+diseases—such as measles, mumps and pertussis—are on the
+increase in the United States (World Health Organization, 2017).
+Many commentators lay the blame for this epidemiological outbreak
+on an increase in anti-immunization activism, and the associated
+drop in immunization rates in some communities (Betsch,
+Renkewitz, Betsch, & Ulshöfer, 2010; van Panhuis et al., 2013).
+As a result, finding ways to overcome fears and myths about
+vaccinations has been an urgent priority for both health professionals
+and for researchers interested in science communication
+(Fischhoff & Scheufele, 2014).
+
+When science communicators encounter an individual who
+holds attitudes in violation of scientific evidence, the most tempting
+and intuitive response is to keep repeating the evidence, and to
+do so as clearly and deftly as possible (i.e., explication). Epistemologically,
+this is satisfying: it is the defining mission of many
+scientists to defend facts and to defeat mis-information, and explication
+is consistent with that mission. It is also likely that, for
+people who are new to an issue or who have a genuinely open
+mind, explication is effective.
+However, when it comes to converting skeptics, it is widely
+understood that there are limitations to this approach (Bain, Hornsey,
+Bongiorno, & Jeffries, 2012; Hart & Nisbt, 2012). First, the
+process of explication implies that the key problem with those who
+hold antivaccination attitudes is lack of exposure to information, or
+failure to understand information (the so-called deficit model of
+science communication). But there is no clear evidence for this:
+people who hold antivaccination attitudes are often no less educated
+than others (Larson, Jarrett, Eckersberger, Smith, & Paterson,
+2014), and tend to spend a relatively large amount of time
+seeking information on the Internet about vaccinations (Jones et
+al., 2012).
+
+Second, there is limited evidence that repeating evidence makes
+a demonstrable difference to the beliefs and behaviors of those
+who hold antivaccination attitudes. One approach has been to
+highlight antivaccination myths, and then to refute them with
+evidence. But a recent experiment conducted on 315 Americans
+suggested that the provision of corrective information had no
+significant effect on their vaccination attitudes (Horne, Powell,
+Hummel, & Holyoak, 2015). Other studies suggest the potential
+for boomerang effects. For example, two experiments on German
+This article was published Online First February 1, 2018.
+Matthew J. Hornsey and Emily A. Harris, School of Psychology, University
+of Queensland; Kelly S. Fielding, School of Communication and
+Arts, University of Queensland.
+The work reported in the current paper was supported by funding from
+the Australian Research Council (DP120100961).
+
+Community members showed that extreme risk negation messages
+resulted in increased perceptions of vaccination risk (Betsch &
+Sachse, 2013). In another study, Americans were exposed to an
+intervention in which they were exposed to either (a) corrective
+information about the lack of evidence that the measles-mumpsrubella
+(MMR) vaccine causes autism, (b) text describing the
+dangers of the diseases prevented by MMR, (c) images of children
+suffering from diseases that can be prevented by MMR vaccine, or
+(d) a narrative describing the near-death experience of an infant
+who contracted measles (Nyhan, Reifler, Richey, & Freed, 2014).
+Compared to a control group, none of the interventions significantly
+improved participants’ intentions to vaccinate a future child.
+In fact, participants who entered into the experiment with relatively
+low favorability toward vaccines showed lower intentions to
+vaccinate in the corrective information condition than the control
+condition.
+
+The low effectiveness of information campaigns on people who
+are skeptical of vaccines can be explained through the lens of
+motivated reasoning (Browne, Thomson, Rockloff, & Pennycook,
+2015). The principle of explication assumes that evidence drives
+attitudes. But increasingly researchers understand that the path also
+works the other way around: people develop an attitude— often
+through intuitions, emotions, and “gut” responses that are difficult
+for them to articulate (Haidt, 2001; Slovic, Finucane, Peters, &
+MacGregor, 2004) – and are motivated to search for evidence to
+support their attitude. In this process of motivated reasoning,
+evidence is sampled and critiqued selectively in order to reinforce
+what one wants to believe (Kunda, 1990). Weak, circumstantial or
+hearsay evidence is embraced to the extent that it reinforces the
+conclusion that one is motivated to reach. In contrast, scholarly
+evidence that is inconvenient or inconsistent with one’s preferred
+conclusion can be discarded as corrupt, incorrect or irrelevant.
+Repeating evidence is not going to be effective for these people
+because it fails to address the underlying reason why they are
+processing the information in a biased way in the first place.
+From this perspective, the key question is not “Why would
+people reject the evidence about vaccinations?” but rather “Why
+would people want to reject the evidence about vaccinations”? The
+“attitude roots” model of science rejection seeks to elucidate these
+underlying motivations (Hornsey & Fielding, 2017). The authors
+use a tree metaphor to explain this process. Above the surface—the
+leaves and branches in the metaphor - are the beliefs, myths and
+concerns that people hold (e.g., about vaccination). It is these
+“surface attitudes” that people see and hear, and that are the targets
+of the interventions described above. But according to the attitude
+roots model it is what is underneath the surface that is most
+important: the underlying fears, identity issues and worldviews
+that motivate people to embrace the surface attitudes. It is these
+“attitude roots” that lend the surface attitudes power (in the sense
+of holding the beliefs strongly), and stability (in that they allow the
+attitudes to survive in the face of contradictory evidence). Four of
+the attitude roots discussed in that theory paper form the basis for
+this paper: Conspiratorial beliefs, disgust sensitivity, reactance,
+and individualistic/hierarchical worldviews.
+
+Conspiratorial Beliefs
+
+There are a number of conspiracy beliefs that are circulated
+among antivaccination websites: most prevalent is the notion that
+Big Pharma and other vested interests exaggerate the benefits of
+vaccines and fail to report the dangers (Jolley & Douglas, 2014).
+For some, however, individual conspiracy beliefs are not held in
+isolation, but rather emerge from a unitary “conspiracist” worldview:
+that it is common for shadowy networks of people with
+malevolent intentions to execute mass hoaxes on the public in
+near-perfect secrecy. People who feel this is the way the world
+works—and for whom this worldview provides a neat way to
+order, predict and make sense of the universe—might be motivated
+to believe conspiracies about science, with negative impacts on
+vaccination intentions. Indeed, there is evidence from an online
+American sample that people’s willingness to endorse conspiracies
+generally (e.g., about the assassination of John F. Kennedy or the
+death of Princess Diana) are positively correlated with a range of
+“anti-science” attitudes, including antivaccination attitudes (Lewandowsky,
+Gignac, & Oberauer, 2013; see also Lewandowsky,
+Oberaruer, & Gignac, 2013).
+
+Disgust
+
+According to the model of attitude roots, (sub)clinical fears and
+phobias can underpin some antiscience beliefs. For example, some
+people have heightened disgust reactions to needles, hospitals and
+blood. People who experience these heightened disgust reactions
+might be tempted to develop a set of attitudes that gives them
+permission to avoid the triggers for their disgust; for example a
+rejection of techno-medical interventions, and a skepticism or
+hesitancy toward immunizations. Consistent with this notion, there
+is evidence that disgust sensitivity correlates with people’s beliefs
+about trust-sensitive scientific advances such as attitudes toward
+vaccination (Clay, 2017) and genetically modified foods (Scott,
+Inbar, & Rozin, 2016).
+Reactance
+
+The “value-expressive” function of an attitude captures the
+capacity of an attitude to communicate to yourself and others the
+type of person that you would like to be. According to the model
+of attitude roots, one function that “anti-science” beliefs might
+have is to establish one’s reputation as a nonconformist; someone
+who is skeptical of consensus views and intolerant of people
+telling them how to think (i.e., as someone high in reactance;
+Brehm & Brehm, 1981). To the extent that people nurture this
+self-image, they may be motivated to reject consensus views (like
+“immunization is good”) as a short-hand way of communicating a
+nonconformist identity to the self and others.
+Individualism—Hierarchy Worldviews
+The theory of cultural cognition makes the case that culturally
+ingrained ideological orientations shape appraisals of risk, evidence,
+and scientific consensus (Kahan, 2010). The theory focuses
+on two types of worldviews: individualism/communitarianism and
+hierarchialism/egalitarianism. The individualism construct focuses
+on the extent to which people think it is preferable for individuals
+to make decisions for themselves, as opposed to society and
+government making decisions for individuals. The hierarchialism
+construct focuses on the extent to which people think that hierarchies
+and power differences are natural and healthy parts of
+society, as opposed to thinking that society needs more equality
+and egalitarianism. Although they are distinct constructs, theory
+and research shows that they share certain attitudinal correlates.
+For example, people who subscribe to relatively individualistic and
+hierarchical values are more inclined to value commerce and free
+enterprise, and so are motivated to believe that “big government”
+is a problem. In contrast, people who subscribe to relatively
+egalitarian and communitarian values are more likely to have a
+moral suspicion of “big business”, and so are motivated to embrace
+the risk that commerce and free enterprise present to the environment
+and to people (Kahan, 2010). Although these ideological
+variables have been shown to have a robust relationship with some
+“anti-science” beliefs (e.g., climate skepticism; Hornsey, Harris,
+Bain, & Fielding, 2016) the link with vaccination attitudes is less
+clear. On one hand it is possible that moral suspicion of big
+business would generalize to a moral suspicion of “Big Pharma”,
+which in turn would be associated with a skepticism or hesitancy
+toward vaccinations. On the other hand, it is possible that immunization
+might be viewed as an excessive “big government” initiative,
+and so be treated with skepticism by those high in individualist
+and hierarchical worldviews. Consistent with this, hierarchical beliefs
+are associated with higher perceptions of HPV vaccine risk (Kahan,
+Braman, Cohen, Gastil, & Slovic, 2010), and vaccine support is
+negatively correlated with belief in the free market (Lewandowsky,
+Gignac, & Oberauer, 2013).
+In sum, the notion of attitude roots allows for a fresh perspective
+on what the barriers to vaccination uptake might be: away from
+beliefs and concerns, and toward the underlying factors that motivate
+those beliefs and concerns. However, there is only a small
+body of work that has examined the empirical case for whether
+these attitude roots are implicated in antivaccination attitudes.
+Where the links have been drawn— between anti-immunization
+beliefs and disgust sensitivity (Clay, 2017) and conspiratorial
+beliefs (Lewandowsky, Gignac, & Oberauer, 2013) - they have
+been examined in single-nation (American) data sets. This restricted
+geographical reach means that it is difficult to extrapolate
+conclusions to nonindustrialized nations, where the benefits of
+immunization are acute, but where skepticism of technomedical
+interventions can be relatively high. The existing studies also
+examined attitude roots in isolation, without controlling for other
+relevant attitude roots. The current study draws on community
+samples from 24 nations, allowing us for the first time to examine
+the extent to which each of these attitude roots uniquely predict
+antivaccination attitudes, and to do so with a global empirical
+reach. Drawing on extant theory and research, we test the prediction
+that antivaccination attitudes would be associated with more
+conspiratorial beliefs, higher levels of disgust, greater reactance,
+and stronger individualistic and hierarchical worldviews.
+
+Method
+
+Data were collected between March 31 and May 11, 2016, using
+the data collection company Survey Sampling International (SSI).
+Before beginning the survey, potential participants were asked
+“what country do you live in?” Respondents were screened out of
+the study if they stated that they lived in a nation other than the
+nation being sampled (n  692). Participants with more than 90%
+data points missing (participant drop-outs) were also excluded
+from analyses (n  60). This left 5323 usable participants. Sample
+size was determined to ensure that each of the samples met or
+exceeded the recommended sample sizes for reliable correlations
+(Bonett & Wright, 2000). For demographic information broken
+down by sample, see Supplemental Table S1 online.
+SSI was chosen due to their emphasis on representativeness of
+panel respondents, whereby their global panel comprises relatively
+representative distributions of gender and age. As can be seen in
+Supplemental Table S1, our sample was indeed representative for
+gender (49.9% female). Given that participants needed to be 18 or
+over to complete the survey, one would expect that our sample
+would be somewhat older than the population of the respective
+countries. Even so, the median ages of our samples were, on
+average, only 4.32 years older than the median age of the respective
+national populations. One limitation of online samples is that
+they tend to be more educated than the general population. Overrepresentation
+of tertiary educated people among the 16 OECD
+nations in our sample was relatively modest (on average, there was
+only a 4.01% difference between the percentage of tertiary educated
+participants in our sample and the percentage of tertiary
+educated people in the respective populations of the 16 OECD
+nations). For non-OECD nations, however, the overrepresentation
+of educated participants was more pronounced. In order to address
+the potential issues associated with our sampling, we included
+demographic factors such as education, age, and gender as control
+variables in key analyses. As will be elaborated below, however, it
+should be noted that age and education did not have a significant
+unique relationship with antivaccination attitudes.
+The choice of 24 nations was constrained partly by the ability of
+SSI to reach a satisfactory sample in the relevant nation; consequently,
+countries with very little Internet penetrations are not
+represented in the survey. In addition to the 24 countries we also
+collected a sample from Hong Kong: Hong Kong is an autonomous
+territory within China, and in our analyses we distinguished
+between this sample and the sample from mainland China. In
+choosing countries, we were also mindful of ensuring a broad
+cross-section of geographical regions (six continents are represented)
+and cultural orientations (we aimed to have a broad spread
+of both individualistic and collectivist cultures, e.g.). Participants
+who did not self-identify as members of the requested nations were
+excluded from the study. Participants received monetary compensation
+for their time, which was determined by SSI and adjusted
+for each country, such that the purchasing power of each reimbursement
+was consistent across countries.
+
+Materials
+
+Measures of antivaccination attitudes, conspiratorial beliefs, disgust,
+reactance, and individualism/hierarchical worldviews are
+summarized below; the full list of items can be found in the
+supplemental materials online. As can be seen there, some items
+were adapted to avoid colloquialisms and other culture-specific
+words and concepts. Questionnaires were translated into the native
+language of non-English speaking samples using translation/backtranslation
+procedures: concerns about comprehension and translatability
+were flagged and addressed during that process. The four
+predictors were presented in a randomized order. The predictors
+were followed by a measure of the outcome variable (vaccination
+PSYCHOLOGICAL ROOTS OF ANTI-VACCINATION ATTITUDES 309
+attitudes) and finally by demographics. This research was approved
+by the Behavioral and Social Sciences Ethical Review
+Committee of the University of Queensland (ethics clearance
+#2015000181).
+Conspiratorial beliefs. Of the conspiratorial beliefs used by
+Lewandowsky, Gignac, and Oberauer (2013), we measured four
+that we considered to have worldwide recognition: conspiracies
+surrounding the assassination of President John Kennedy, the
+death of Princess Diana, the existence of a New World Order, and
+American government knowledge of the 9/11 terrorist attacks.
+Participants rated their agreement with the conspiracy statement on
+a 5-point scale (1  strongly disagree; 5  strongly agree) but
+with a sixth option for people who “don’t know.” Participants
+choosing the “don’t know” option were treated as missing values
+on this scale. Mean scores for the individual conspiracy beliefs
+ranged from slightly above the midpoint (JFK: M  3.44) to
+slightly below (9/11 and New World Order: Ms both  2.78).
+Consistent with the notion of conspiracy beliefs forming part of a
+unitary worldview, endorsement of each conspiracy theory was
+positively correlated and so the four items were combined into a
+single scale (  .81).
+Disgust. Disgust was measured using the “blood and injection”
+subscale of the Disgust Emotion Scale (Olatunji, Sawchuk,
+de Jong, & Lohr, 2007). Participants rated the extent to which they
+would feel disgust or repugnance if they were exposed to 6 objects
+or events including “A small vial of your blood” and “receiving an
+anesthetic injection in the mouth” (1  no disgust or repugnance
+at all; 5  extreme disgust or repugnance). Scores were combined
+into a highly reliable scale (  .90).
+Reactance. Reactance was measured using a selection of
+items from the Hong Psychological Reactance Scale (Hong &
+Page, 1989). On a 5-point scale (1  strongly disagree; 5
+strongly agree) participants rated their level of agreement with five
+statements such as: “I find contradicting others stimulating” and “I
+consider advice from others an intrusion.” Higher scores reflect
+greater dispositional reactance (  .64).
+Individualism— hierarchy worldview. The cultural cognition
+dimensions were measured using the Cultural Cognition Worldview
+Scale (Kahan et al., 2010). Individualism-communitarianism was
+measured with 17 items including “The government interferes far too
+much in our everyday lives” and “It’s society’s responsibility to make
+sure everyone’s basic needs are met” (reversed). Hierarchyegalitarianism
+was measured with 13 items including “We have gone
+too far in pushing equal rights in this country” and “Our society would
+be better off if the distribution of wealth was more equal” (reversed).
+All items were responded to on a 6-point scale (1  strongly disagree;
+6  strongly agree) and each scale displayed adequate internal
+consistency (s  .68 and .61, respectively). However, the scales
+were significantly correlated, r  .32, p  .001. Thus, to avoid these
+variables competing with each other for unique variance in the regression
+model, we combined the two scales into a single measure of
+individualism/hierarchy (at the top end of the scale) and communitarianism/egalitarianism
+(at the bottom end of the scale).
+Attitudes toward vaccinations. Attitudes toward vaccinations
+were measured using seven items from the Beliefs About
+Vaccine Safety and Efficacy subscale of the Parent Attitudes
+About Vaccines Scale (Opel et al., 2011). Participants rated how
+much they agreed with four statements about vaccine safety and
+efficacy, including “Children get more vaccinations than are good
+for them” and “It is better for children to get fewer vaccinations all
+at the one time” (1  strongly disagree, 5  strongly agree). They
+also rated how concerned they were about three issues associated
+with vaccinations, such as “that any one of the childhood vaccines
+might not be safe” and “that a vaccine might not prevent the
+disease.” For the last three items participants responded on a
+5-point scale from 1 (not at all concerned) to 5 (very concerned)
+but with a sixth item to register that the item was “not applicable”
+(scores of 6 were treated as missing values). Note that, although
+the items assess intentions to vaccinate children, they do not
+presuppose that participants have children themselves. The items
+were combined into a single scale, with high scores indicating high
+levels of concern about the safety and effectiveness of vaccines
+(  .71). However, removal of the one negatively worded item
+(“Many of the illnesses that vaccines prevent are severe”) resulted
+in a substantial increase in reliability (  .77) and so we analyzed
+the 6-item scale.
+
+Analytic Plan
+
+We calculated bivariate relationships by conducting a series of
+meta-analyses across the 25 samples using the metafor package
+(Viechtbauer, 2010). All effect sizes were weighted by sample size
+and calculated using random-effects estimation, specifically, the
+restricted maximum-likelihood estimation. We then conducted a
+regression analysis to examine the unique predictive power of each
+of our variables. To account for the nesting of individuals within
+countries, we used the lme4 package (Bates, Mächler, Bolker, &
+Walker, 2015) to conduct mixed-effects modeling (i.e., modeling
+both within- and between-country variance and covariance). All
+predictor variables were measured at the individual level (i.e.,
+Level 1) and were group-mean centered at the country level.
+
+Means and Bivariate Correlations
+
+Means and standard deviations within each of the 25 samples
+are summarized in Table 1. The mean score for the overall sample
+suggests slightly above-midpoint concerns about the safety and
+efficacy of vaccination (M  3.26). The scores on antivaccination
+attitudes were reasonably normally distributed, with 14.8% reporting
+strong antivaccination attitudes (M  4.01), 39.2% reporting
+moderately strong antivaccination attitudes (M  3.01– 4), 36.2%
+reporting moderately strong provaccination attitudes (M  2.01–
+3); and 9.8% reporting strong provaccination attitudes (M  2 or
+below). As can be seen in Table 1, the strongest antivaccination
+attitudes tended to be in Asia, and the weakest antivaccination
+attitudes tended to be in the West.
+Figures 1– 4 detail country-level correlations between antivaccination
+attitudes and conspiratorial beliefs, reactance, disgust, and
+individualism-hierarchy. Table 2 summarizes correlations among
+variables after being pooled across the 25 samples (indices of crosssample
+variability are in Supplemental Table S2 online). Analysis of
+the pooled correlations showed that antivaccination attitudes featured
+in significant bivariate relationships with all four of our predictors.
+The strongest pattern was that participants who displayed more conspiratorial
+beliefs held more antivaccination attitudes, r  .334, p 
+.001. As can be seen in Figure 1, this relationship emerged signifi-
+310 HORNSEY, HARRIS, AND FIELDING
+cantly in all 25 samples, and seemed to be particularly strong among
+Western nations (e.g., Australia, Canada, Germany, U.K., U.S.A.).
+The next most consistent relationship was with reactance: the more
+people reported resisting influence and incursions on their freedom,
+the more they held antivaccination attitudes, r  .235, p  .001. This
+relationship was significant in 22 of 25 samples (see Figure 2).
+Stronger antivaccination attitudes were also found among those who
+experience relatively high levels of disgust about blood and injections,
+a relationship that was significant in 17 of 25 cultures (r  .201, p 
+.001; see Figure 3). Finally, antivaccination attitudes were stronger the
+more participants endorsed an individualistic/hierarchical worldview,
+r  .186, p  .001. Although this effect was relatively consistent
+across samples (20 of 25 samples, Figure 4) it was the weakest
+relationship in terms of effect size.
+It is notable that these psychological predictors accounted for more
+variance than demographic factors. Strikingly, analysis of the pooled
+correlations showed that education had no significant relationship
+with vaccination attitudes, r  .009, p  .646; neither did gender,
+r  .012, p  .472. Younger, r  .046, p  .012 participants were
+significantly more skeptical, although this relationship accounted for
+a very small amount of variance. More conservative participants, r
+.102, p  .001 also had stronger antivaccination attitudes.
+Mixed-Effects Regression Modeling
+Mixed-effects regression modeling was used to examine the unique
+predictive power of each of our variables. The intraclass correlation
+(ICC  0.12) shows that within-country variation accounted for 88%
+of the total variance in antivaccination attitudes. Model 1 estimated
+the fixed effects of reactance, conspiratorial beliefs, individualismhierarchy,
+and disgust on attitudes toward vaccinations, controlling
+for differences in scores and relationships across countries (random
+intercepts and slopes, see Table 3). Conspiratorial beliefs were the
+strongest predictor of antivaccination attitudes, followed by reactance,
+disgust, and individualism-hierarchy, all ps  .001. Hence, participants
+scoring higher on conspiratorial beliefs, disgust, reactance, and
+individualism-hierarchy were more likely to hold antivaccination attitudes.
+Model 2 added fixed effects of age, gender, education, and
+political ideology (the sample size for this final model was 4688,
+with 12% of the sample excluded due to missing values on one or
+more of the measured variables). The effects of conspiratorial
+beliefs, reactance, disgust, and individualism-hierarchy were
+almost identical to those reported for Model 1 (see Table 3).
+Conspiratorial beliefs were again the strongest predictor of
+antivaccination attitudes, followed by reactance, disgust, and
+individualism-hierarchy, all ps  .001. Political ideology significantly
+predicted antivaccination attitudes such that more conservative
+participants were more likely to hold antivaccination attitudes,
+p  .001. Age, gender, and education were nonsignificant
+predictors of antivaccination attitudes, ps  .178.
+
+Discussion
+
+An advantage of doing this is that
+it opens up novel opportunities to promote vaccination intentions,
+ones that do not rely on repeating evidence.
+According to the attitude roots model, one way to create change is
+to identify underlying motives for rejecting the science on immunization,
+and then to tailor interventions that are congenial to those
+underlying motivations (the so-called jiu jitsu approach; Hornsey &
+Fielding, 2017). From this perspective, the goal of science communication
+is to align with people’s underlying fears, ideologies and
+identities, thus reducing people’s motivation to reject the science. If
+the motivation to reject the science is reduced, then people should
+become more willing to embrace the evidence on its merits.
+The current data identified three underlying attitude roots that
+are meaningfully implicated in antivaccination attitudes: conspiratorial
+beliefs, reactance, and disgust/fear toward blood
+and needles (the fourth predictor—individualistic/hierarchical
+worldviews— explained only a small amount of variance and so
+will not be discussed further). The particularly strong role of
+conspiratorial beliefs helps contextualize why corrective information
+and myth-busting about vaccinations has tended to be
+either ineffective or counterproductive. For most people, official
+health messages asserting a scientific consensus about
+vaccination are reassuring and imply an underlying reality (the
+“consensus implies correctness” heuristic). But for those who
+have a conspiratorial worldview, these same ingredients— official
+pronouncements that imply a lack of dissent or that the
+“science is in”— can be inverted to be proof of a conspiracy.
+From a jiu jitsu approach it is counterproductive to try to reduce
+people’s conspiratorial thinking (and there is no evidence that
+this is feasible). Rather, one should work with people’s underlying
+worldviews: to acknowledge the possibility of conspiracies,
+but to show how vested interests can conspire to obscure
+the benefits of vaccination and to exaggerate the dangers.
+Similar methods might be possible for the other two predictors
+identified in this paper. It might not be feasible to reduce people’s
+levels of reactance. But it might be possible to align vaccination
+messages with that individual difference factor, by implying that
+antivaccination movements are high-pressure, highly conformist
+organizations in which individual freedoms are discouraged. For
+those who have high disgust toward needles and blood, avoidance
+of vaccination is a short-term anxiety reduction strategy. But
+interventions may be able to disable that strategy by reminding
+people of the consequences of disease in terms of hospitalization,
+illness symptoms, and exposure to surgery, blood and needles.
+This may help explain why, of the interventions tested by Nyhan
+and colleagues (2014), among the most effective (or least noneffective)
+in terms of vaccination intentions was exposure to dramatic
+narratives and images about children suffering from measles.
+Figure 1. Relationship between conspiratorial beliefs and antivaccination
+attitudes across 25 samples. Effect sizes to the right indicate larger correlations.
+Figure 2. Relationship between reactance and antivaccination attitudes
+across 25 samples. Effect sizes to the right indicate larger correlations.
+
+Limitations and Future Directions
+
+Like most samples collected over the Internet, our sample is
+likely restricted to people with relatively high levels of literacy. As
+noted earlier, the current samples tended to overrepresent highly
+educated individuals, and as such the generalizability of the effects
+to less-educated people is not clear.
+Given the cross-sectional nature of our design, causal interpretations
+of the data are speculative. To reduce the possibility that the
+significant relationships are artifacts of latent third variables, we
+have controlled for demographic factors such as age, gender,
+education, and political ideology. However, we are also mindful of
+the possibility that the relationships reflect examples of reverse
+causation. For example, it is plausible that someone who had an
+experience that triggered vaccine hesitance would then develop
+more general conspiratorial beliefs as they are exposed to conspiratorial
+material about vaccinations. In the future, issues of causality
+might best be addressed through large-scale longitudinal surveys.
+Our outcome measure is an attitudinal measure; we have no
+measures of intentions or behaviors around vaccination uptake.
+Theoretically, we believe that the psychology underpinning antivaccination
+attitudes is an interesting question in its own right.
+However, we acknowledge that attitudes are an imperfect proxy
+for behaviors, and care should be taken not to presume that one
+necessarily leads to the other. Future studies would benefit from
+having more explicit measures of behaviors. In so doing, it would
+also be of value to nuance between parents and nonparents in terms
+of their vaccination decisions, an issue that lay outside the scope of
+the current analysis.
+We also acknowledge that there are pragmatic challenges
+associated with the jiu jitsu style of persuasion described earlier.
+Given that no single message can canvass all of the
+possible underlying motivations for rejecting science, jiu jitsu
+persuasion relies on diverse messages delivered through multiple
+channels to appeal to different segments of the population.
+The attraction of tailored messaging is clear, but we emphasize
+that the success of jiu jitsu persuasion rests on marketing and
+technological sophistication as much as it relies on psychological
+understanding.
+On the question of communication strategy, we acknowledge
+that some of the effects reported here—while statistically significant—are
+small. Disgust, for example, accounts for less than
+10% of variance in antivaccination attitudes in all but two
+countries (see Figure 3). Furthermore, although conspiratorial
+beliefs share a reliable and significant relationship with antivaccination
+attitudes across all 25 samples, inspection of Figure
+1 shows that the effects in some cultures (particularly in Asia
+and South America) are modest in size. This suggests that
+conspiracy-related interventions may be less of a priority in
+these cultures than in the industrialized West. However, it
+Figure 3. Relationship between disgust and antivaccination attitudes
+across 25 samples. Effect sizes to the right indicate larger correlations.
+Figure 4. Relationship between individualism-hierarchy and antivaccination
+attitudes across 25 samples. Effect sizes to the right indicate larger
+correlations.
+
+It should also be noted that some of the relationships in the rich,
+industrialized Western nations are relatively large: in Australia,
+Canada, Germany, New Zealand, U.K. and the U.S.A., knowing
+people’s beliefs about conspiracies in general helps account for
+17–27% of variance in antivaccination attitudes. This is a
+nontrivial amount of explanatory power, particularly since this
+measure does not make any reference to vaccinations or healthrelated
+beliefs.
+
+In sum, the current results suggest new understandings of the
+psychological factors that motivate people to want to reject the
+science on vaccinations. Understanding these underlying motivations
+opens up new possibilities in terms of promoting more vaccination
+uptake, interventions that work in alignment with (rather than against)
+the effects of motivated reasoning on people’s ability to embrace
+counterattitudinal information.
